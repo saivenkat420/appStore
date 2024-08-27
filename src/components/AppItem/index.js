@@ -14,4 +14,4 @@ class AppItem extends Component {
   }
 }
 
-export default TabItem
+export default AppItem
