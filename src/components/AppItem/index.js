@@ -1,7 +1,7 @@
 import {Component} from 'react'
 import './index.css'
 
-class TabItem extends Component {
+class AppItem extends Component {
   render() {
     const {values} = this.props
     const {appId, appName, imageUrl} = values
